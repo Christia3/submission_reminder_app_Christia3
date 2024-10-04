@@ -1,5 +1,6 @@
-Student1: Assignment1
-Student2: Assignment2
-Student3: Assignment3
-Student4: Assignment4
-Student5: Assignment5
+John Doe - 2024-10-01
+Jane Smith - 2024-10-02
+Emily Davis - 2024-10-03
+Michael Brown - 2024-10-04
+Sarah Johnson - 2024-10-05
+
